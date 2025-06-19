@@ -143,5 +143,5 @@ List of Figures
 
 • Figure 1: Screenshot of the app’s home screen. 
 
-• Figure 2: Screenshot showing meal suggestion. 
+• Figure 2: Screenshot showing songs displayed. 
 
