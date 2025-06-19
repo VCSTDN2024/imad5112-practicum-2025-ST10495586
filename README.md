@@ -1,4 +1,4 @@
-Meal Suggestion Application 
+Music Playlist Application
 
 • Developer: Asemahle Ngete 
 
@@ -14,7 +14,7 @@ Meal Suggestion Application
 
 Links 
 
-• GitHub Repository: [https://github.com/VCSTDN2024/imad5112-assignment-1-ST10495586] 
+• GitHub Repository: [https://github.com/VCSTDN2024/imad5112-practicum-2025-ST10495586] 
 
  
 
@@ -46,7 +46,7 @@ Key Features
 
 • Exit Button: Allows users to close the application. 
 
-• Input Validation: Ensures that only valid numeric input is accepted. 
+• Input Validation: Ensures that only valid numeric input is accepted for ratings. 
 
  
 
@@ -149,24 +149,3 @@ List of Figures
 
 • Figure 2: Screenshot showing meal suggestion. 
 
- 
-
-Disclosure of AI Usage in My Assessment 
-
- 
-
-How AI Was Used in This Project 
-
-1. Brainstorming: Used ChatGPT to generate ideas for the app’s features. 
-
-2. Code Assistance: Used GitHub Copilot for writing UI elements and logic. 
-
-3. Documentation Review: AI was used to refine grammar and clarity. 
-
- 
-
-Date of AI Usage 
-
-• March 5, 2025 – Brainstorming App Features 
-
-• March 8, 2025 – Help with GitHub Actions Setup 
