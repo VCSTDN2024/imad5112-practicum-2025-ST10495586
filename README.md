@@ -90,9 +90,9 @@ Screenshots and App Demo
 
 App Screenshots 
 
-Home screen where the user inputs time. 
+Home screen where the user clicks start to start. 
 
-Meal suggestion displayed based on input time. 
+Songs display on TextView. 
 
  
 
@@ -105,11 +105,7 @@ Challenges and Learnings
 
 Challenges Faced 
 
-1. App: App is refusing to run. 
-
-• Emulator: The app including the emulator is not running. 
-
-2. Exiting the Application Properly: Handling the exit function correctly. 
+1. Exiting the Application Properly: Handling the exit function correctly. 
 
 • Solution: Used finish() to close the app smoothly. 
 
@@ -127,9 +123,9 @@ Learnings
 
 Future Enhancements 
 
-• User Preferences: Allow users to set preferred meal times. 
+• User Preferences: Allow users to rate song from (1-10). 
 
-• Database Integration: Store and retrieve meal preferences. 
+• Database Integration: Store more than 4 songs. 
 
 • Dark Mode: Add a dark mode option for better usability. 
 
